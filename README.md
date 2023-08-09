@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Services HealthCheck
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto utilizando ContextAPI fazendo requisiçao simples GET para endpoint /api/healthcheck, faz-se necessario renomear .env_sample e adicionar o host para a API em REACT_APP_API_URL
 
 ## Available Scripts
 
